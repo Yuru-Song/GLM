@@ -10,7 +10,7 @@ Trying GLM on binary output, i.e. search or not, chase or not.
 
 About behavior bout, how to select them? First, look at the time length distribution of these two behaviors. Run MATLAB program `plot_behav_length_stat.m`, dependent on `behav_length_stat.m` and `plot_areaerrorbar.m`.
 
-Shown in the following figure, the second group (WT/Or47b Light) data seems weird in the search behavior. After discussing with April, I decided to neglect the search behavior in light, which is meanningless (?, I don't know. I totally don't know).
+Shown in the following figure, the second group (WT/Or47b Light) data seems weird. 
 
 ![](behav_length_stat.jpg)
 
