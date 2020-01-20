@@ -2,7 +2,7 @@
 Jan 19 2020
 --------------
 Bout triggered average. Check all the features prior to the initiation of 'chase' and 'search' behaviors.
-
+<span style="color:blue">WT Light</span> v.s. <span style="color:orange">WT Dark</span> 
 ![](WT_Light_Dark_chase.jpg)
 ![](WT_Light_Dark_search.jpg)
 ![](WT_Or47b_Dark_chase.jpg)
