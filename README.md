@@ -6,7 +6,7 @@ Bout triggered average. Check all the features prior to the initiation of 'chase
 'chase', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_chase.jpg)
-'search', WT Light (blue) v.s. WT Dark (orange
+'search', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_search.jpg)
 'chase', WT Dark (blue) v.s. Or47b Dark (orange)
