@@ -3,13 +3,23 @@ Jan 19 2020
 --------------
 Bout triggered average. Check all the features prior to the initiation of 'chase' and 'search' behaviors.
 
-<span style="color:blue">WT Light</span> v.s. <span style="color:orange">WT Dark</span> 
+'chase', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_chase.jpg)
+'search', WT Light (blue) v.s. WT Dark (orange
+
 ![](WT_Light_Dark_search.jpg)
+'chase', WT Dark (blue) v.s. Or47b Dark (orange)
+
 ![](WT_Or47b_Dark_chase.jpg)
+'search', WT Dark (blue) v.s. Or47b Dark (orange)
+
 ![](WT_Or47b_Dark_search.jpg)
+'chase', WT Light (blue) v.s. Or47b Light (orange)
+
 ![](WT_Or47b_Light_chase.jpg)
+'search', WT Light (blue) v.s. Or47b Light (orange)
+
 ![](WT_Or47b_Light_search.jpg)
 --------------
 Jan 13 2020
