@@ -2,12 +2,13 @@
 Jan 19 2020
 --------------
 Bout triggered average. Check all the features prior to the initiation of 'chase' and 'search' behaviors.
-![](WT_Light_Dark_Chase.jpg)
-![](WT_Light_Dark_Search.jpg)
-![](WT_Or47b_Dark_Chase.jpg)
-![](WT_Or47b_Dark_Search.jpg)
-![](WT_Or47b_Light_Chase.jpg)
-![](WT_Or47b_Light_Search.jpg)
+
+![](WT_Light_Dark_chase.jpg)
+![](WT_Light_Dark_search.jpg)
+![](WT_Or47b_Dark_chase.jpg)
+![](WT_Or47b_Dark_search.jpg)
+![](WT_Or47b_Light_chase.jpg)
+![](WT_Or47b_Light_search.jpg)
 --------------
 Jan 13 2020
 --------------
