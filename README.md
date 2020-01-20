@@ -1,5 +1,5 @@
 --------------
-Jan 14 2020
+Jan 19 2020
 --------------
 Bout triggered average. Check all the features prior to the initiation of 'chase' and 'search' behaviors.
 
