@@ -1,7 +1,7 @@
 --------------
 Jan 19 2020
 --------------
-Bout triggered average. Check all the features prior to the initiation of 'chase' and 'search' behaviors. Will use the following 7 features for GLM training.
+Bout triggered average. Check all the features prior to the initiation of 'chase' and 'search' behaviors. Will use the following 7 features for GLM training. Run MATLAB program `plot_BTA.m`, dependent on `bout_triggered_average.m` and `plot_areaerrorbar.m`.
 
 'chase', WT Light (blue) v.s. WT Dark (orange)
 
