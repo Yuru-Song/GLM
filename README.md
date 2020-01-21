@@ -11,39 +11,51 @@ Bout triggered average. Check all the features prior to the initiation of 'chase
 'chase', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_chase.jpg)
+![](WT_Light_Dark_chase_zscored.jpg)
 non-'chase', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_non_chase.jpg)
+![](WT_Light_Dark_non_chase_zscored_zscored.jpg)
 'search', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_search.jpg)
+![](WT_Light_Dark_search_zscored.jpg)
 non-'search', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_non_search.jpg)
+![](WT_Light_Dark_non_search_zscored.jpg)
 'chase', WT Dark (blue) v.s. Or47b Dark (orange)
 
 ![](WT_Or47b_Dark_chase.jpg)
+![](WT_Or47b_Dark_chase_zscored.jpg)
 non-'chase', WT Dark (blue) v.s. Or47b Dark (orange)
 
 ![](WT_Or47b_Dark_non_chase.jpg)
+![](WT_Or47b_Dark_non_chase_zscored.jpg)
 'search', WT Dark (blue) v.s. Or47b Dark (orange)
 
 ![](WT_Or47b_Dark_search.jpg)
+![](WT_Or47b_Dark_search_zscored.jpg)
 non-'search', WT Dark (blue) v.s. Or47b Dark (orange)
 
 ![](WT_Or47b_Dark_non_search.jpg)
+![](WT_Or47b_Dark_non_search_zscored.jpg)
 'chase', WT Light (blue) v.s. Or47b Light (orange)
 
 ![](WT_Or47b_Light_chase.jpg)
+![](WT_Or47b_Light_chase_zscored.jpg)
 non-'chase', WT Light (blue) v.s. Or47b Light (orange)
 
 ![](WT_Or47b_Light_non_chase.jpg)
+![](WT_Or47b_Light_non_chase_zscored.jpg)
 'search', WT Light (blue) v.s. Or47b Light (orange)
 
 ![](WT_Or47b_Light_search.jpg)
+![](WT_Or47b_Light_search_zscored.jpg)
 non-'search', WT Light (blue) v.s. Or47b Light (orange)
 
 ![](WT_Or47b_Light_non_search.jpg)
+![](WT_Or47b_Light_non_search_zscored.jpg)
 --------------
 Jan 13 2020
 --------------
