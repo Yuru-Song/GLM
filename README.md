@@ -15,7 +15,7 @@ Bout triggered average. Check all the features prior to the initiation of 'chase
 non-'chase', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_non_chase.jpg)
-![](WT_Light_Dark_non_chase_zscored_zscored.jpg)
+![](WT_Light_Dark_non_chase_zscored.jpg)
 'search', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_search.jpg)
