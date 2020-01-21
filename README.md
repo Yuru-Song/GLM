@@ -1,7 +1,7 @@
 --------------
 Jan 20 2020
 --------------
-Train GLM with 'relative distance' as the only predictor.
+Train GLM with 'relative distance' as the only predictor. z score the features before training.
 
 --------------
 Jan 19 2020
