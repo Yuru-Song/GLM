@@ -2,7 +2,7 @@
 Jan 28 2020
 --------------
 Training deviance of single-feature GLM: Run MATLAB program `glm_single_feat_train.m` and `plot_glm_single_feat.m`.
-It's weird that the deviance explained is high for 'WT Light Search', 'WT Dark Chase' etc. Maybe there are too many '0' events in the training datasets for those groups.
+It's weird that the deviance explained is high for 'WT Light Search', 'WT Dark Chase' etc. Maybe there are too many '0' events in the training datasets for those groups. Without going to check this hypothesis, I make another prediction here: the testing deviance of these groups are worse than 'WT Light Chase', 'WT Dark Search' etc.
 
 ![](GLM_deviance_1.jpg) ![](GLM_deviance_2.jpg)
 ![](GLM_deviance_3.jpg) ![](GLM_deviance_4.jpg)
