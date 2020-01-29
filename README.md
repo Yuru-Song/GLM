@@ -2,7 +2,7 @@
 Jan 28 2020
 --------------
 Training deviance of single-feature GLM: 
-It's obvious that the GLM is relatively succussful in describing the chase behavior in the light environment, and search behavior in the dark environment.
+It's weird that the deviance explained is high for 'WT Light Search', 'WT Dark Chase' etc. Maybe there are too many '0' events in the training datasets.
 
 ![](GLM_deviance_1.jpg) ![](GLM_deviance_2.jpg)
 ![](GLM_deviance_3.jpg) ![](GLM_deviance_4.jpg)
