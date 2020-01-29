@@ -1,7 +1,8 @@
 --------------
 Jan 28 2020
 --------------
-Deviance of single-feature GLM:
+Training deviance of single-feature GLM: 
+It's obvious that the GLM is relatively succussful in describing the chase behavior in the light environment, and search behavior in the dark environment.
 
 ![](GLM_deviance_1.jpg) ![](GLM_deviance_2.jpg)
 ![](GLM_deviance_3.jpg) ![](GLM_deviance_4.jpg)
