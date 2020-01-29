@@ -1,7 +1,14 @@
 --------------
-Jan 20 2020
+Jan 28 2020
 --------------
-Train GLM with 'relative distance' as the only predictor. z score the features before training.
+Deviance of single-feature GLM:
+
+![](GLM_deviance_1.jpg) ![](GLM_deviance_2.jpg)
+![](GLM_deviance_3.jpg) ![](GLM_deviance_4.jpg)
+![](GLM_deviance_5.jpg) ![](GLM_deviance_6.jpg)
+![](GLM_deviance_7.jpg) ![](GLM_deviance_8.jpg)
+![](GLM_deviance_9.jpg) ![](GLM_deviance_10.jpg)
+![](GLM_deviance_11.jpg) ![](GLM_deviance_12.jpg)
 
 --------------
 Jan 19 2020
