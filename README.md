@@ -16,6 +16,8 @@ Jan 19 2020
 --------------
 Bout triggered average. Check all the features prior to the initiation of 'chase' and 'search' behaviors. Run MATLAB program `plot_BTA.m`, dependent on `bout_triggered_average.m` and `plot_areaerrorbar.m`.
 
+Maybe the filters from GLM are similar to the BTAs here? 
+
 'chase', WT Light (blue) v.s. WT Dark (orange)
 
 ![](WT_Light_Dark_chase.jpg)
